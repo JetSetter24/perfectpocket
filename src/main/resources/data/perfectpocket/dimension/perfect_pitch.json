@@ -1,0 +1,18 @@
+{
+  "type": "perfectpocket:perfect_pitch",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        {
+          "height": 1,
+          "block": "perfectpocket:perfect_pitch_black"
+        }
+      ],
+      "biome": "perfectpocket:perfect_pitch",
+      "lakes": [],
+      "features": false,
+      "structure_overrides": []
+    }
+  }
+}

@@ -11,8 +11,8 @@ public class ModBlocks {
     public static final Block PERFECT_PITCH_BLACK = registerBlock(
             "perfect_pitch_black",
             new Block(AbstractBlock.Settings.create()
-                    .strength(50.0f)
-                    .requiresTool())
+                    .strength(-1.0f)
+                    .dropsNothing())
     );
 
     private static Block registerBlock(String name, Block block) {
